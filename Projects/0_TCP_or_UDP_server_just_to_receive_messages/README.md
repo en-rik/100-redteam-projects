@@ -2,12 +2,7 @@
 
 ## Overview
 
-This Python project implements a simple TCP and UDP server designed to receive messages. It can be used as a foundation for building communication applications that require reliable and connectionless data transfer.
-
-## Features
-
-- **TCP Server:** Enables reliable, connection-oriented communication.
-- **UDP Server:** Supports connectionless, fast data transfer.
+This Python project implements a simple TCP and UDP server designed to receive messages.
 
 ## Getting Started
 
